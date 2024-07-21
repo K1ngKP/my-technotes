@@ -61,7 +61,7 @@ LIVEBLOCKS_SECRET_KEY=</code></pre>
 </ol>
 
 <h2>Future Improvements</h2>
-
-**Advanced Formatting Options**: Adding more text formatting capabilities.
-**Offline Mode**: Enable editing and synchronization when offline.
-**Enhanced Security**: Implement role-based access control and additional security measures.
+<ul>
+    <li>**Advanced Formatting Options**: Adding more text formatting capabilities.</li>
+<li>**Offline Mode**: Enable editing and synchronization when offline.</li>
+<li>**Enhanced Security**: Implement role-based access control and additional security measures.</li></ul>
